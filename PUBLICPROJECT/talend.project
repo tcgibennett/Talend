@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_HVqN8QYiEeqBlp7-Qhz2gw" label="PublicProject" description="" language="java" technicalLabel="PUBLICPROJECT" creationDate="2019-11-12T14:21:40.737-0500" author="_HVqN8gYiEeqBlp7-Qhz2gw" productVersion="Talend Data Integration-7.2.1.20190620_1446" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/tcgibennett/Talend&quot;,&quot;login&quot;:&quot;tcgibennett&quot;,&quot;passwd&quot;:&quot;ZxsG18Gjq6HFR9+muHdv9g==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false">
+    <migrationTask xmi:id="_HgEHIAYiEeqBlp7-Qhz2gw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_HVqN8gYiEeqBlp7-Qhz2gw" login="tbennett@talend.com" firstName="Thomas" lastName="Bennett" type="DI" additionnalData="{}"/>
+</xmi:XMI>
